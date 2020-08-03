@@ -32,7 +32,11 @@ window.handleMealsRequest = async () => {
   }
     </ul>
   </div>
-  </div>`;
+  </div>
+  <footer>
+    <a href="/" data-navigo>Home </a>
+    <a href="meals" data-navigo>Meals </a>
+  </footer>`;
 };
 /**
  * <div class="bodycontainer">
